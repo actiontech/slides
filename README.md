@@ -26,12 +26,16 @@ Slides of presentation made by Actiontech
 
 ## 公开演讲材料
 
+
+file:///C:/Users/Kid19/Desktop/git/slides/cloudtree/
+
 演讲材料按标签分类归纳，以下为所有材料介绍，按时间倒序排列。
 
 年月-会议 | 标题 | 分类 | 演讲人 | 链接 
 --- | --- | --- | --- | ----
 202311-OBCloud公开课 | ActionDB的技术原理与案例实践 | ActionDB | 刘世红 | [下载](https://github.com/actiontech/slides/blob/master/actiondb/202311-ActionDB%E7%9A%84%E6%8A%80%E6%9C%AF%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%AE%9E%E8%B7%B5-%E5%88%98%E4%B8%96%E7%BA%A2-OBCloud%E5%85%AC%E5%BC%80%E8%AF%BE%E5%B9%BF%E5%B7%9E.pdf)
 202310-OB社区Meetup | ActionDB 助力企业国产数据库升级 | ActionDB | 刘世红 | [下载](https://github.com/actiontech/slides/blob/master/actiondb/202310-ActionDB%E5%8A%A9%E5%8A%9B%E4%BC%81%E4%B8%9A%E5%9B%BD%E4%BA%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%8D%87%E7%BA%A7-%E5%88%98%E4%B8%96%E7%BA%A2-OB%E7%A4%BE%E5%8C%BAMeetup.pdf)
+202310-RedHat合作伙伴会议 | 构建多元异构数据库管理平台，助力业务持续高效发展 | SQLE | 路新英 | [下载](https://github.com/actiontech/slides/blob/master/sqle/202310-%E6%9E%84%E5%BB%BA%E5%A4%9A%E5%85%83%E5%BC%82%E6%9E%84%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0%EF%BC%8C%E5%8A%A9%E5%8A%9B%E4%B8%9A%E5%8A%A1%E6%8C%81%E7%BB%AD%E9%AB%98%E6%95%88%E5%8F%91%E5%B1%95-%E8%B7%AF%E6%96%B0%E8%8B%B1-%E7%BA%A2%E5%B8%BD%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E4%BC%9A%E8%AE%AE.pdf)
 202310-KaiwuDB沙龙 | TensorDB + 大模型应用构建 | TensorDB | 苏鹏 |  [下载](https://github.com/actiontech/slides/blob/master/tensordb/202310-TensorDB+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E6%9E%84%E5%BB%BA-%E8%8B%8F%E9%B9%8F-KaiwuDB%E6%B2%99%E9%BE%99.pdf)
 202310-GOPS | DevOps 场景下的数据库运维管理新模式 | SQLE | 丁嘉胤 | [下载](https://github.com/actiontech/slides/blob/master/sqle/202310-DevOps%E5%9C%BA%E6%99%AF%E4%B8%8B%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%90%E7%BB%B4%E7%AE%A1%E7%90%86%E6%96%B0%E6%A8%A1%E5%BC%8F-%E4%B8%81%E5%98%89%E8%83%A4-GOPS.pdf)
 202310-ITPUB直播 | 向量数据库在国产化替代潮中的机遇与实践 | TensorDB | 阎虎青 | [下载](https://github.com/actiontech/slides/blob/master/tensordb/202310-%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9C%A8%E5%9B%BD%E4%BA%A7%E5%8C%96%E6%9B%BF%E4%BB%A3%E6%BD%AE%E4%B8%AD%E7%9A%84%E6%9C%BA%E9%81%87%E5%92%8C%E5%AE%9E%E8%B7%B5-%E9%98%8E%E8%99%8E%E9%9D%92-ITPUB%E7%9B%B4%E6%92%AD.pdf)
@@ -42,6 +46,8 @@ Slides of presentation made by Actiontech
 202307-Gdevops | 大模型与向量数据库运维的创新新引擎 | SQLE | 苏鹏 | [下载](https://github.com/actiontech/slides/blob/master/tensordb/202307-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E6%95%8F%E6%8D%B7%E8%BF%90%E7%BB%B4%E7%9A%84%E5%88%9B%E6%96%B0%E5%BC%95%E6%93%8E-%E8%8B%8F%E9%B9%8F-Gdevops%E5%8C%97%E4%BA%AC%E7%AB%99.pdf)
 202306-茶话会 | 面向多库局面的数据库质量管理 | SQLE | 周文雅 | [下载](https://github.com/actiontech/slides/blob/master/sqle/202306-%E9%9D%A2%E5%90%91%E5%A4%9A%E5%BA%93%E5%B1%80%E9%9D%A2%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86-%E5%91%A8%E6%96%87%E9%9B%85-%E8%8C%B6%E8%AF%9D%E4%BC%9A.pdf)
 202306-茶话会 | 大模型时代的向量数据库 | TensorDB | 苏鹏 | [下载](https://github.com/actiontech/slides/blob/master/tensordb/202306-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E7%9A%84%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%8B%8F%E9%B9%8F-%E8%8C%B6%E8%AF%9D%E4%BC%9A.pdf)
+202304-5G产业时代直播 | 制造业数字化转型 | 云树 | 肖静澄 | [下载](https://github.com/actiontech/slides/blob/master/cloudtree/202304-%E5%88%B6%E9%80%A0%E4%B8%9A%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B-%E8%82%96%E9%9D%99%E6%BE%84-5G%E4%BA%A7%E4%B8%9A%E6%97%B6%E4%BB%A3%E7%9B%B4%E6%92%AD.pdf)
+202303-北京数智金融年会 | OceanBase&爱可生云树方案助力金融数字基建提质增效 | 云树 | 路新英 | [下载](https://github.com/actiontech/slides/blob/master/cloudtree/202303-OceanBase&%E7%88%B1%E5%8F%AF%E7%94%9F%E4%BA%91%E6%A0%91%E6%96%B9%E6%A1%88%E5%8A%A9%E5%8A%9B%E9%87%91%E8%9E%8D%E6%95%B0%E5%AD%97%E5%9F%BA%E5%BB%BA%E6%8F%90%E8%B4%A8%E5%A2%9E%E6%95%88-%E8%B7%AF%E6%96%B0%E8%8B%B1-%E5%8C%97%E4%BA%AC%E6%95%B0%E6%99%BA%E9%87%91%E8%9E%8D%E5%B9%B4%E4%BC%9A.pdf)
 202206-Gdevops | MySQL 数据库高可用架构探索 | 云树 | 郑增权 | [下载](https://github.com/actiontech/slides/blob/master/cloudtree/2202206-MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E9%AB%98%E5%8F%AF%E7%94%A8%E6%9E%B6%E6%9E%84%E6%8E%A2%E7%B4%A2-%E9%83%91%E5%A2%9E%E6%9D%83-Gdevops.pdf)
 202111-DAMS | MySQL云平台（RDS）在金融行业落地实践 | 云树 | 张沈波 | [下载](https://github.com/actiontech/slides/blob/master/cloudtree/202111-MySQL%E4%BA%91%E5%B9%B3%E5%8F%B0%EF%BC%88RDS%EF%BC%89%E5%9C%A8%E9%87%91%E8%9E%8D%E8%A1%8C%E4%B8%9A%E8%90%BD%E5%9C%B0%E5%AE%9E%E8%B7%B5-%E5%BC%A0%E6%B2%88%E6%B3%A2-DAMS.pdf)
 202110-Gdevops | 如何打造文件数据库管理平台 | 云树 | 洪斌 | [下载](https://github.com/actiontech/slides/blob/master/cloudtree/202110-%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E7%A8%B3%E5%81%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0-%E6%B4%AA%E6%96%8C-Gdevops%E5%B9%BF%E5%B7%9E%E7%AB%99.pdf)
