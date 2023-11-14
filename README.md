@@ -26,9 +26,6 @@ Slides of presentation made by Actiontech
 
 ## 公开演讲材料
 
-
-file:///C:/Users/Kid19/Desktop/git/slides/cloudtree/
-
 演讲材料按标签分类归纳，以下为所有材料介绍，按时间倒序排列。
 
 年月-会议 | 标题 | 分类 | 演讲人 | 链接 
