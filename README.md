@@ -7,15 +7,27 @@ Slides of presentation made by Actiontech
 
 大智小技 —— 大智者，宏观把握，对技术产生的背景以及相应的原理应用了然于胸；小技者，具体细微，不论什么问题一定要剖析入骨，捋清脉络。拥有了大智小技，面对问题轻松自如，一目了然，一锤定音。
 
+
+<details>
+<summary>系列图书</summary>
+
+![](images\community_boos.jpg)
+
+</details>
+
 年份 | 链接 
 --- | ---
-《大智小技》2019 | [下载](https://github.com/actiontech/slides/blob/master/community/%E3%80%8AMySQL%E5%A4%A7%E6%99%BA%E5%B0%8F%E6%8A%80%E3%80%8B2019%E7%89%88.pdf)
-《大智小技》2020 | [下载](https://github.com/actiontech/slides/blob/master/community/%E3%80%8AMySQL%E5%A4%A7%E6%99%BA%E5%B0%8F%E6%8A%80%E3%80%8B2020%E7%89%88.pdf)
-《大智小技》2021 | [下载](https://github.com/actiontech/slides/blob/master/community/%E3%80%8AMySQL%E5%A4%A7%E6%99%BA%E5%B0%8F%E6%8A%80%E3%80%8B2021%E7%89%88.pdf)
-《大智小技》2022 | [下载](https://github.com/actiontech/slides/blob/master/community/%E3%80%8AMySQL%E5%A4%A7%E6%99%BA%E5%B0%8F%E6%8A%80%E3%80%8B2022%E7%89%88.pdf)
+《大智小技I》2019 | [下载](https://github.com/actiontech/slides/blob/master/community/%E3%80%8AMySQL%E5%A4%A7%E6%99%BA%E5%B0%8F%E6%8A%80%E3%80%8B2019%E7%89%88.pdf)
+《大智小技II》2020 | [下载](https://github.com/actiontech/slides/blob/master/community/%E3%80%8AMySQL%E5%A4%A7%E6%99%BA%E5%B0%8F%E6%8A%80%E3%80%8B2020%E7%89%88.pdf)
+《大智小技III》2021 | [下载](https://github.com/actiontech/slides/blob/master/community/%E3%80%8AMySQL%E5%A4%A7%E6%99%BA%E5%B0%8F%E6%8A%80%E3%80%8B2021%E7%89%88.pdf)
+《大智小技IV》2022 | [下载](https://github.com/actiontech/slides/blob/master/community/%E3%80%8AMySQL%E5%A4%A7%E6%99%BA%E5%B0%8F%E6%8A%80%E3%80%8B2022%E7%89%88.pdf)
+《大智小技V》2023 | [购买](https://product.dangdang.com/29677902.html)
+《大智小技VI》2024（最新版） | [购买](https://product.dangdang.com/29829072.html)
 
-
-纸质版请关注微信公众号 “爱可生开源社区”，不定期活动赠书。 
+《大智小技》V 和 VI 为出版物，无法提供电子版，获取方式：
+1. 直接点击对应购买链接下单。
+2. 关注微信公众号 “爱可生开源社区”，不定期活动赠书。
+3. [填写问卷](https://www.wjx.cn/vm/hhnV0rx.aspx#)，回访后酌情赠予。
 
 <details>
 <summary>公众号二维码</summary>
@@ -24,13 +36,52 @@ Slides of presentation made by Actiontech
 
 </details>
 
+## 视频内容
+从 2024 年开始运营视频平台，第一时间发布产品新闻及演讲切片和直播回放：
+- 主要：
+    - [B站（爱可生开源社区）](https://space.bilibili.com/697658009)
+    - 视频号（爱可生开源社区）关联微信公众号
+- 少量：
+    - 抖音（爱可生开源社区）、头条、知乎
+
+目前已经发布的合集有：
+- [ChatDBA实操演示](https://space.bilibili.com/697658009/channel/collectiondetail?sid=3042463) 更新中
+- ACDU 读书会第三期：《大智小技》系列（待上传）
+- [开源秀：让所有人不再为SQL问题头疼](https://space.bilibili.com/697658009/channel/collectiondetail?sid=2308565)
+- [开源漫谈第十五期：数据库+大模型，DBA初级变高级？](https://space.bilibili.com/697658009/channel/collectiondetail?sid=4167991)
+- [GOTC2024：数据库根因分析智能助手的实践与应用](https://space.bilibili.com/697658009/channel/collectiondetail?sid=3862143)
+- [爱可生技术会议：国产分布式数据库的发展机遇与挑战](https://space.bilibili.com/697658009/channel/collectiondetail?sid=3688136)
+- [信创沙龙：国产数据库 SQL 审核实践](https://space.bilibili.com/697658009/channel/collectiondetail?sid=3522147)
+- [开源漫谈第十三期：SQL审核真的能审出数据库的所有问题吗？](https://space.bilibili.com/697658009/channel/collectiondetail?sid=3332150)
+- [墨天轮数据库沙龙：MySQL 8.4 LTS 版本解读](https://space.bilibili.com/697658009/channel/collectiondetail?sid=3212451)
+- [OceanBase开发者大会：ActionDB助力企业国产数据库升级](https://space.bilibili.com/697658009/channel/collectiondetail?sid=2843456)
+- [DBLE微课程 18 讲](https://space.bilibili.com/697658009/channel/seriesdetail?sid=3442337)
+- [DBLE公开课](https://space.bilibili.com/697658009/channel/seriesdetail?sid=745183)
+- [Python自动化](https://space.bilibili.com/697658009/channel/seriesdetail?sid=3394828)
+
+
 ## 公开演讲材料
 
 演讲材料按标签分类归纳，以下为所有材料介绍，按时间倒序排列。
 
+主要涉及的开源项目及商业项目有：
+- [SQLE：SQL质量管理平台](https://github.com/actiontech/sqle)
+- [ActionDB：基于 OceanBase 开源内核的商业发行版](https://www.actionsky.com/actionDB)
+- [ChatDBA：数据库根因分析助手](https://www.chatdba.com/)
+- 爱可生云树系列& MySQL 技术分享等
+
 年月-会议 | 标题 | 分类 | 演讲人 | 链接 
 --- | --- | --- | --- | ----
-202401-开源秀 | 让所有人不再为 SQL 问题头疼 | SQLE | 孙健 | [下载](https://github.com/actiontech/slides/blob/master/sqle/202401-%E8%AE%A9%E6%89%80%E6%9C%89%E4%BA%BA%E4%B8%8D%E5%86%8D%E4%B8%BASQL%E9%97%AE%E9%A2%98%E5%A4%B4%E7%96%BC.pdf)
+202501-ACDU读书会 | 第三期：数据库生产实战秘籍《大智小技》 | 社区书籍 | 管长龙 | [查看](https://gamma.app/docs/ACDU--ud0piva3rsg0pp6?mode=doc) |
+202409-Datafun |  ChatDBA 数据库根因分析智能助手的实践与应用 | ChatDBA | 李剑楠 | [查看](https://mp.weixin.qq.com/s/l9u3Ees4rBs04GIQBVbB0A) |
+202408-大模型创新应用沙龙 | ChatDBA 数据库根因分析智能助手的实践与应用 | ChatDBA | 王鑫炜 | [下载](chatdba\202408-数据库根因分析智能助手的实践与应用-王鑫炜-大模型创新应用沙龙.pdf)
+202408-GOGC×GOTC | ChatDBA 数据库根因分析智能助手的实践与应用 | ChatDBA | 苏鹏 | [下载](chatdba\202408-ChatDBA数据库根因分析智能助手的实践与应用-苏鹏-GOTC.pdf)
+202407-信创数据库沙龙南京站 | 国产数据库 SQL 质量管理实践 | SQLE | 丁嘉胤 | [下载](sqle\202407-国产数据库SQL质量管理实践-丁嘉胤-信创沙龙.pdf) |
+202406-开源之夏 | 社区项目宣讲会 | SQLE | 管长龙 | [下载](sqle\202406-开源之夏2024社区宣讲-管长龙.pdf)
+202404-OceanBase 开发者大会 | ActionDB生态体系建设和实践经验  | ActionDB | 洪斌 | [下载](actiondb\202404-ActionDB生态体系建设和实践经验-洪斌-OceanBase开发者大会.pdf)
+202404-Qcon OpenTalk | 让所有人不再为 SQL 问题头疼 | SQLE | 管长龙 | [下载](sqle\202404-让所有人不再为SQL问题头疼-管长龙-QconOpenTalk.pdf) |
+202402-上海开源沙龙 | 让所有人不再为 SQL 问题头疼 | SQLE | 孙健 | [下载](sqle\202402-让所有人不再为SQL问题头疼-孙健-上海开源沙龙.pdf) |
+202401-开源秀 | 让所有人不再为 SQL 问题头疼 | SQLE | 孙健 | [下载](sqle\202401-让所有人不再为SQL问题头疼-孙健-开源秀.pdf)
 202311-OBCloud公开课 | ActionDB的技术原理与案例实践 | ActionDB | 刘世红 | [下载](https://github.com/actiontech/slides/blob/master/actiondb/202311-ActionDB%E7%9A%84%E6%8A%80%E6%9C%AF%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%AE%9E%E8%B7%B5-%E5%88%98%E4%B8%96%E7%BA%A2-OBCloud%E5%85%AC%E5%BC%80%E8%AF%BE%E5%B9%BF%E5%B7%9E.pdf)
 202310-OB社区Meetup | ActionDB 助力企业国产数据库升级 | ActionDB | 刘世红 | [下载](https://github.com/actiontech/slides/blob/master/actiondb/202310-ActionDB%E5%8A%A9%E5%8A%9B%E4%BC%81%E4%B8%9A%E5%9B%BD%E4%BA%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%8D%87%E7%BA%A7-%E5%88%98%E4%B8%96%E7%BA%A2-OB%E7%A4%BE%E5%8C%BAMeetup.pdf)
 202310-RedHat合作伙伴会议 | 构建多元异构数据库管理平台，助力业务持续高效发展 | SQLE | 路新英 | [下载](https://github.com/actiontech/slides/blob/master/sqle/202310-%E6%9E%84%E5%BB%BA%E5%A4%9A%E5%85%83%E5%BC%82%E6%9E%84%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0%EF%BC%8C%E5%8A%A9%E5%8A%9B%E4%B8%9A%E5%8A%A1%E6%8C%81%E7%BB%AD%E9%AB%98%E6%95%88%E5%8F%91%E5%B1%95-%E8%B7%AF%E6%96%B0%E8%8B%B1-%E7%BA%A2%E5%B8%BD%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E4%BC%9A%E8%AE%AE.pdf)
